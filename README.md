@@ -62,17 +62,24 @@ RegisterNumber:24900704
 ```
 **TRUTHTABLE**
 
+
 ![Screenshot 2024-11-28 114200](https://github.com/user-attachments/assets/c1b95d3e-5935-4d2e-ab52-c6b95a898e0d)
+
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
+
 ![Screenshot 2024-11-28 114423](https://github.com/user-attachments/assets/f124e431-522b-4d0b-a881-1790e31be4c1)
+
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
+
 ![Screenshot 2024-11-28 114719](https://github.com/user-attachments/assets/b7070a4d-41ec-4240-b50e-c791a2cc71b5)
 
+
 **RESULTS**
+
 Implementing Encoder 8 To 3 in Dataflow Modelling using verilog and
 validating their functionality using their functional tables executed succesfully.
 
